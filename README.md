@@ -1,5 +1,8 @@
 # Heart Disease Detector
 Developer: Shuaib Ahmed
+
+[View The Project Here!](/heartDiseasePredictor.md)
+
 ## Overview
 
 This Heart Disease Detector project is a simple implementation of a logistic regression model for predicting the presence of heart disease in patients based on a dataset from Kaggle. The model has achieved an accuracy of 0.81 on the training dataset, indicating its potential for assisting in early heart disease detection.
